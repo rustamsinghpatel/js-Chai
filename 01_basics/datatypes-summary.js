@@ -35,3 +35,10 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//++++++++++++ memory ++++++++++++++
+
+// 1. Stack (primitive) -->> copy
+
+// 2. Heap (Non-Primitive)---> refrence , oraginel valu can change
+
