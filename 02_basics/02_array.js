@@ -22,10 +22,10 @@ console.log(real_another_array);
 
 
 
-console.log(Array.isArray("Rustam"))
+console.log(Array.isArray("Rustam")) // aske 
 console.log(Array.from("Rustam")) // Convert new array
 console.log(Array.from({name: "hitesh"})) // interesting
-//empty arrry.-> confuse key or valu se array banye
+//empty arrry.-> confuse key or valu se array banye so impty array banega
 let score1 = 100
 let score2 = 200
 let score3 = 300
