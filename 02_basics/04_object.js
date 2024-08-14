@@ -54,6 +54,7 @@ users[1].email
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
+//++ destrchering ++
 
 const course = {
     coursename: "js in hindi",
@@ -67,6 +68,8 @@ const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
 console.log(instructor);
+
+// API
 
 // {
 //     "name": "hitesh",
